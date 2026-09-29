@@ -12,3 +12,12 @@ console.log(c**a); // Exponentiation
 c+=5; // c = c + 5  
 console.log(c);
 
+console.log(8==8); // Equal to
+console.log(8=="8"); // Equal to
+console.log(8===8); // Strictly equal to
+console.log(8==="8"); // Strictly equal to
+console.log(8!=8); // Not equal to
+console.log(8>5); // Greater than
+console.log(8<5); // Less than
+console.log(8>=5); // Greater than or equal to
+console.log(8<=5); // Less than or equal to
